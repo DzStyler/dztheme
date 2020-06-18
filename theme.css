@@ -1,3 +1,4 @@
 :root {
-    background-image: image("https://i.imgur.com/tw0s7lb.png");
+    background: url('i.imgur.com/tw0s7lb.png');
+    background-image: url('i.imgur.com/tw0s7lb.png');
 }
