@@ -1,6 +1,6 @@
 :root {
-    --background-primary: #e41313;
-    --background-secondary: #f54848d8;
-    --background-secondary-alt: #90f777 !important;
-    --background-tertiary: #54bd18 !important;
+    --background-primary: rgb(156, 17, 17) !important;
+    --background-secondary: rgba(134, 136, 0, 0.847);
+    --background-secondary-alt: rgb(0, 84, 95) !important;
+    --background-tertiary: rgb(127, 252, 44) !important;
 }
