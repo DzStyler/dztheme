@@ -1,10 +1,5 @@
 //META{"name":"[DzTheme]","description":"Theme dz", "author":"dzstyler", "version":"1.0","authorId":"230751646294999040"}*//{}
 
-@import url("https://dzstyler.github.io/dztheme/theme.css");
-
 :root {
-    --background-image: url('https://i.imgur.com/F29kR3B.jpg');
-    --background-image-blur: 5px; 
-    --background-image-size: cover;
-    --background-image-position: center; 
+    background-color: rebeccapurple;
 }
