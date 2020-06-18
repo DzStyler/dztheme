@@ -1,3 +1,8 @@
+@import url(https://dzstyler.github.io/dztheme/dztheme.css);
+
 :root {
-   enable-background: unset;
+   background-color: rgb(228, 6, 6);
+   bottom: unset;
+   background: 0rem;
+   background-color: transparent;
 }
