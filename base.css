@@ -1,5 +1,6 @@
 :root {
     --background-primary: #e41313;
     --background-secondary: #f54848d8;
+    --background-secondary-alt: #90f777 !important;
     --background-tertiary: #54bd18 !important;
 }
